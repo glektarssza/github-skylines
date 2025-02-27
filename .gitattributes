@@ -6,3 +6,9 @@
 
 # Treat .cmd files as text files with Windows-style line endings
 *.cmd text eol=crlf
+
+# Treat .stl files as binary
+*.stl binary
+
+# Handle .stl files with Git LFS
+*.stl filter=lfs diff=lfs merge=lfs -text
