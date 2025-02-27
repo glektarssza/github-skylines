@@ -1,0 +1,19 @@
+# Custom Dictionary Words
+armv
+assemblyfilters
+autobuild
+chdir
+dylib
+esults
+finalizer
+g'lekcraft
+glekcraft
+glfw
+globaltool
+libdecor
+loong
+reportgenerator
+reporttypes
+runsettings
+targetdir
+xplat
